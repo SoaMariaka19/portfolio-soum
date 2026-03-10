@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# <img src="https://raw.githubusercontent.com/SoaMariaka19/portfolio-soum/main/public/icon.png" width="50" height="50" /> Soa Mariaka's Portfolio
 
-## Getting Started
+Welcome to my professional showcase! 🚀 This platform is designed to reflect my approach to **Front-end** and **Mobile** development: a balance between technical performance and user comfort.
 
-First, run the development server:
+🔗 **[View Live Demo](https://soa-mariaka.netlify.app/)** ---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ Tech Stack & Architecture
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This portfolio is built with a modern architecture prioritizing fluid user experience and maintainable code.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js 16 (App Router)** – High-performance rendering for optimized SEO and speed.
+- **Tailwind CSS v4** – Modern utility-first styling for a lightweight and consistent interface.
+- **TypeScript** – Strict typing for better reliability and maintainability.
+- **Framer Motion** – Smooth micro-interactions and fluid animations.
+- **Lucide & React Icons** – Clean, modern iconography.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📌 Key Features
 
-To learn more about Next.js, take a look at the following resources:
+✅ **Responsive Design** – Mobile-first approach ensuring a perfect experience on all devices.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✅ **Interactive UI** – Skill showcases and experience timelines powered by Framer Motion.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+✅ **UX-Driven** – Pixel-perfect layouts with a focus on accessibility and legibility.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧠 Design Philosophy
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+My workflow is built on three pillars :
+
+1. **UI/UX Craftsmanship**: Transforming complex business needs into intuitive interfaces, even without prior mockups.
+2. **Technical Agility**: Ability to work across diverse environments, from complex back-office architectures to stabilizing critical mobile apps.
+3. **Software Quality**: Clean code standards (Conventional Commits) and scalable service layers.
+
+---
+
+## 📞 Let's Connect
+
+I am always open to discussing the tech ecosystem, sharing experiences, or collaborating on exciting projects.
+
+💡 Have a vision in mind? Let's talk!
+
+- **LinkedIn**: [Soa Mariaka RAKOTOMALALA](https://www.linkedin.com/in/soa-mariaka-rakotomalala-42a30a278/)
+- **GitHub**: [@SoaMariaka19](https://github.com/SoaMariaka19)
+
+---
+✨ *Designed and developed with passion by Soa Mariaka © 2026*
