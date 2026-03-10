@@ -1,5 +1,5 @@
 "use client";
-import { motion } from "framer-motion";
+import {motion, Variants} from "framer-motion";
 import { FiUsers, FiRepeat, FiFeather } from "react-icons/fi";
 
 const values = [
@@ -33,12 +33,18 @@ const containerVariants = {
     }
 };
 
-const itemVariants = {
-    hidden: { opacity: 0, y: 30 },
+const itemVariants: Variants = {
+    hidden: {
+        opacity: 0,
+        y: 20
+    },
     visible: {
         opacity: 1,
         y: 0,
-        transition: { duration: 0.6, ease: "easeOut" }
+        transition: {
+            duration: 0.6,
+            ease: "easeOut"
+        }
     }
 };
 
