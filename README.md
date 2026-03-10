@@ -2,7 +2,7 @@
 
 Welcome to my professional showcase! 🚀 This platform is designed to reflect my approach to **Front-end** and **Mobile** development: a balance between technical performance and user comfort.
 
-🔗 **[View Live Demo](https://soa-mariaka.netlify.app/)** ---
+🔗 **[View Live Demo](https://portfolio-soum.vercel.app)** ---
 
 ## 🛠️ Tech Stack & Architecture
 
